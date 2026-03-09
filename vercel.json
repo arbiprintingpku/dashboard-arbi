@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://script.google.com/macros/s/AKfycbznl9f2PpIIFGYKFzYdi5WqRjJlt80etA62AIG88jBAGbkJnSmjxjAeiBNri_-Wb6li9g/exec"
+    }
+  ]
+}
