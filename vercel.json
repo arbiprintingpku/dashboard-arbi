@@ -2,7 +2,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "https://script.google.com/macros/s/AKfycbznl9f2PpIlFGYKFzYdi5WqRjIIt80etA62AIG88jBAGbkJnSmjxjAeiBNri_-Wb6Ii9g/exec"
+      "dest": "https://script.google.com/macros/s/AKfycbyJYjJPcIj3bfvu2hwMF9PI-hg2wH_MRSVFHb2YTQzIbQrNOwWt6N3Zuag691JSQ8cbFQ/exec"
     }
   ]
 }
